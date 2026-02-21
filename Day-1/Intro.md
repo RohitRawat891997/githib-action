@@ -1,8 +1,8 @@
-👉 **GitHub Actions = automation system** jo tumhari DevOps pipeline ko automatically run karta hai.
-
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/rohit-rawat-7383091a7/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](http://github.com/RohitRawat891997)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://app.docker.com/accounts/rohitrawat891997)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RohitRawat891997)
+[![Docker](https://img.shields.io/badge/Docker-Profile-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/rohitrawat891997)
+
+👉 **GitHub Actions = automation system** jo tumhari DevOps pipeline ko automatically run karta hai.
 
 ---
 
