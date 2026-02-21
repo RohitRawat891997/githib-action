@@ -2,8 +2,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RohitRawat891997)
 [![Docker](https://img.shields.io/badge/Docker-Profile-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/rohitrawat891997)
 
-Perfect Rohit 👍 — **Runners** GitHub Actions ka sabse important execution part hai. Aaj mai tumhe **real DevOps perspective** se step-by-step Hinglish me samjhaunga.
-
 ---
 
 # ⚙️ Runner kya hota hai? (Basic Concept)
